@@ -1,2 +1,2 @@
 # TikTokTV
-TikTok TV - Stremio Addon
+TikTokTV - Stremio Addon
