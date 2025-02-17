@@ -1,5 +1,5 @@
-# TikTokTV - Stremio Addon
-Addon to get TikTok friends.
+# VidFloTV - Stremio Addon
+Addon to watch TT friends.
 
 ## 📦 Installation
 
@@ -10,4 +10,4 @@ Addon to get TikTok friends.
 
 ⚠️ Render.com sets the server to standby when not used, then slowing down the restart. Use [Uptime Robot](https://uptimerobot.com/).
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kadeschs/TikTokTV)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kadeschs/VidFloTV)
