@@ -1,2 +1,2 @@
-# TikTokTV
-TikTok TV - Stremio Addon
+# VidFloTV
+VidFloTV - Stremio Addon
